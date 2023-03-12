@@ -21,8 +21,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 - 300ml (1.25 cup) water
 - 1.25 tsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - one serving ramen noodles
-- salt (how much?)
-- soy sauce (shoyu) (how much?)
+- 1 tbsp soy sauce (shoyu) [I recommend Pearl River Bridge brand #notsponsored]
 
 **Toppings:** (suggested)
 - baked tofu or fake meat of choice
@@ -34,9 +33,6 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 1. Heat up a saucepan and put some vegetable oil in it.
 2. Fry the sweet potato, carrot, yellow onion, and garlic with the lid on until some light browning is visible (4-5 minutes over medium heat*)
 3. Transfer all ingredients from the pan into a blender.  Also add in the water and fake chicken boullion.
-
-Todo: should we add some soft tofu as well to replace the chicken in the blender?
-
 4. Blend until completely smooth.
 5. Return mixture to the pan and simmer over medium-low heat for 5 minutes.  Be careful not to burn!
 6. While the broth is simmering, start the noodles cooking according to package directions in another pot.
