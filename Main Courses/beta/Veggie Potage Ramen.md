@@ -13,7 +13,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 ## Ingredients:
 
 **Broth:**
-- 1 small sweet potato, peeled and coarsely chopped
+- 1 small sweet potato, peeled and coarsely chopped into ~3/4" pieces
 - 1/2 small carrot, coarsely chopped
 - 1/4 medium yellow onion, coarsely chopped
 - 2 cloves garlic, sliced
@@ -32,7 +32,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 ## Directions:
 
 1. Heat up a saucepan and put some vegetable oil in it.
-2. Fry the sweet potato, carrot, yellow onion, and garlic until some light browning is visible (4-5 minutes over medium heat*)
+2. Fry the sweet potato, carrot, yellow onion, and garlic with the lid on until some light browning is visible (4-5 minutes over medium heat*)
 3. Transfer all ingredients from the pan into a blender.  Also add in the water and fake chicken boullion.
 
 Todo: should we add some soft tofu as well to replace the chicken in the blender?
