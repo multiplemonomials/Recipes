@@ -13,7 +13,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 ## Ingredients:
 
 **Broth:**
-- 1 small sweet potato, coarsely chopped
+- 1 small sweet potato, peeled and coarsely chopped
 - 1/2 small carrot, coarsely chopped
 - 1/4 medium yellow onion, coarsely chopped
 - 2 cloves garlic, sliced
