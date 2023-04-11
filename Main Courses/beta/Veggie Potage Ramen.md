@@ -13,7 +13,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 ## Ingredients:
 
 **Broth:**
-- 1 small sweet potato, peeled and coarsely chopped into ~3/4" pieces
+- 1/2 small sweet potato, peeled and coarsely chopped into ~3/4" pieces
 - 1/2 small carrot, coarsely chopped
 - 1/4 medium yellow onion, coarsely chopped
 - 2 cloves garlic, sliced
@@ -28,7 +28,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 **Toppings:** (suggested)
 - baked tofu or fake meat of choice
 - shredded or chopped green onions (1-2)
-- sliced tomatos (1 roma tomato)
+- sliced tomatoes (1 roma tomato)
 
 ## Directions:
 
@@ -42,7 +42,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 9. Add toppings as desired
 
 
-* Medium heat is defined as the burner level where the tips of the flames just touch the bottom of the pot.
+\* Medium heat is defined as the burner level where the tips of the flames just touch the bottom of the pot.
 
 ## Author's Note: Development of this Recipe
 Considering that this recipe just used what I had in my house, this came out unexpectedly delicious.  For some reason, it actually tastes like [Tenka Ippin](https://www.tenkaippin.co.jp/) packaged ramen.  And it's surprisingly quick to put together!
