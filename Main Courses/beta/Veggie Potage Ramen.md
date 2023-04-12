@@ -13,7 +13,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 ## Ingredients:
 
 **Broth:**
-- 1/2 small sweet potato, peeled and coarsely chopped into ~3/4" pieces
+- 1/2 medium sweet potato, peeled and coarsely chopped into ~3/4" pieces
 - 1/2 small carrot, coarsely chopped
 - 1/4 medium yellow onion, coarsely chopped
 - 2 cloves garlic, sliced
@@ -21,7 +21,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 - 300ml (1.25 cup) water
 - 1.25 tsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - one serving ramen noodles (4oz fresh noodles, ??oz dry noodles)
-- 4 tsp soy sauce (shoyu) [I recommend Pearl River Bridge brand #notsponsored]
+- 1.5 tbsp Chinese soy sauce [I recommend Pearl River Bridge brand #notsponsored]
 - 1 tsp sake (or other cooking alcohol such as mirin or cooking sherry)
 - 1/4 tsp salt
 
