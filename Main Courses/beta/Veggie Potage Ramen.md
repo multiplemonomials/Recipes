@@ -41,8 +41,4 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 8. Pour the broth into a bowl.  When the noodles are ready, carefully drain them and add to the bowl with the broth.  Mix well.
 9. Add toppings as desired
 
-
 \* Medium heat is defined as the burner level where the tips of the flames just touch the bottom of the pot.
-
-## Author's Note: Development of this Recipe
-Considering that this recipe just used what I had in my house, this came out unexpectedly delicious.  For some reason, it actually tastes like [Tenka Ippin](https://www.tenkaippin.co.jp/) packaged ramen.  And it's surprisingly quick to put together!
