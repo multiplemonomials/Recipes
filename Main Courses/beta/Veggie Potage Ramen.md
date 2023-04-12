@@ -21,7 +21,7 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 - 300ml (1.25 cup) water
 - 1.25 tsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - one serving ramen noodles (6oz fresh noodles, ??oz dry noodles)
-- 2 tbsp soy sauce (shoyu) [I recommend Pearl River Bridge brand #notsponsored]
+- 4 tsp soy sauce (shoyu) [I recommend Pearl River Bridge brand #notsponsored]
 - 2 tsp sake (or other cooking alcohol such as mirin or cooking sherry)
 - 1/4 tsp salt
 
