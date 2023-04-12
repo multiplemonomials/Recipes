@@ -1,4 +1,6 @@
-# Super-Rich Veggie Potage Shoyu Ramen
+# Rich Veggie Potage Shoyu Ramen
+
+![Ramen Bowl Picture](https://cdn.discordapp.com/attachments/1071706050736165005/1095553968945512488/20230411_203923.jpg)
 
 Original source: https://cookpad.com/recipe/2130722 by susu58
 
