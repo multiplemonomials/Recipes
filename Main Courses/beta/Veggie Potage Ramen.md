@@ -36,11 +36,11 @@ Rich and with a refreshing aftertaste!  If you have a craving for veggie potage 
 
 1. Heat up a saucepan and put some vegetable oil in it.
 2. Fry the sweet potato, carrot, yellow onion, and garlic with the lid on until some light browning is visible (4-5 minutes over medium heat*)
-3. Transfer all ingredients from the pan into a blender.  Also add in the water, fake chicken boullion, soy sauce, sake, and salt.
+3. Transfer all ingredients from the pan into a blender.  Also add in the water, fake chicken boullion, sake, and salt.
 4. Blend until completely smooth.
 5. Return mixture to the pan and simmer over medium-low heat for 5 minutes.  Be careful not to burn!
 6. While the broth is simmering, start the noodles cooking according to package directions in another pot.
-8. Pour the broth into a bowl.  When the noodles are ready, carefully drain them and add to the bowl with the broth.  Mix well.
+8. Remove the broth from heat, add the soy sauce, and pour it into a bowl.  When the noodles are ready, carefully drain them and add to the bowl with the broth.  Mix well.
 9. Add toppings as desired
 
 \* Medium heat is defined as the burner level where the tips of the flames just touch the bottom of the pot.
