@@ -9,7 +9,7 @@ Icing: TODO find citation
 
 ## Ingredients:
 ### Cake:
-- 2 cups all-purpose flour
+- 2 (250g) cups all-purpose flour
 - 0.5 cup granulated sugar
 - 0.25 cup brown sugar
 - 1 tsp baking soda
