@@ -9,9 +9,9 @@ Icing: TODO find citation
 
 ## Ingredients:
 ### Cake:
-- 2 (250g) cups all-purpose flour
-- 0.5 cup granulated sugar
-- 0.25 cup brown sugar
+- 2 cups (250g) all-purpose flour
+- 0.5 cup (100g) granulated sugar
+- 0.25 cup (55g) brown sugar
 - 1 tsp baking soda
 - 1 tsp baking powder
 - 1 tsp lemon zest (You can use two large lemons and have enough zest for both the cake and the frosting)
