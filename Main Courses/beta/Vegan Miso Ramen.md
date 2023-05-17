@@ -24,10 +24,10 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 - 1 tbsp mirin
 - 1 tbsp white sesame seeds
 - 2 tbsp miso
-- 2 tbsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
+- 4 tsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - 1 L (4.25 cups) water
 - 2 tsp fake butter (e.g. Earth Balance)
-- ?? tsp [doubanjiang paste](https://www.amazon.com/Natural-Plus-Green-Doubangjiang-Ingredient/dp/B08TVHRTDP/ref=sr_1_4?keywords=Doubanjiang&qid=1683396318&sr=8-4) (optional)
+- 1.5 tsp [doubanjiang paste](https://www.amazon.com/Natural-Plus-Green-Doubangjiang-Ingredient/dp/B08TVHRTDP/ref=sr_1_4?keywords=Doubanjiang&qid=1683396318&sr=8-4) (optional)
 
 ## Directions:
 
