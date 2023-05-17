@@ -31,8 +31,9 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 
 ## Directions:
 
-1. First, we will make the easy broth.  Add the minced garlic, miso, soy sauce, mirin, and sesame seeds to a pot over low heat.
-2. Increase heat to high and quickly, lightly fry the miso, stirring constantly so it doesn't burn.
+1. First, we will make the easy broth.  Preheat a pot over medium-high heat.
+2. In a small bowl, mix together the minced garlic, miso, soy sauce, mirin, and sesame seeds with a fork until combined.
+3. Quickly, lightly fry the miso mixture in the pot until the flavor is released, stirring constantly so it doesn't burn.
 
 ![Picture of frying the miso mixture](https://img.cpcdn.com/steps/35646832/m/b51bb7202f62d39c82b43a426a15e278?u=46684425&p=1681200103)
 
