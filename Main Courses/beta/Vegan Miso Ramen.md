@@ -15,7 +15,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 
 ## Ingredients:
 
-- 3 bundles soumen noodles (or can use 4oz fresh ramen noodles)
+- 3 bundles (~160g) soumen noodles (or can use 8-10oz fresh ramen noodles)
 - Whatever toppings you prefer! (I recommend tofu, cooked fake chicken, green onions, etc)
 
 **Broth:**
