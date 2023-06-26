@@ -19,7 +19,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 - Whatever toppings you prefer! (I recommend tofu, cooked fake chicken, green onions, etc)
 
 **Broth:**
-- 1 tbsp minced garlic
+- 1 tbsp minced garlic (~3 largeish cloves)
 - 1 tbsp soy sauce (shoyu)
 - 1 tbsp mirin
 - 1 tbsp white sesame seeds
