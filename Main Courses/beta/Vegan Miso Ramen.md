@@ -20,7 +20,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 
 **Broth:**
 - 1 tbsp minced garlic (~3 largeish cloves)
-- 2 tbsp soy sauce (shoyu)
+- 2.5 tbsp soy sauce (shoyu).  To make it interesting, can use a mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman).
 - 1 tbsp mirin
 - 1 tbsp white sesame seeds
 - 4 tbsp miso
