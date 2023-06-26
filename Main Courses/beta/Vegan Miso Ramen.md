@@ -2,7 +2,7 @@
 
 Original Source: https://cookpad.com/recipe/7501930 by Mikki's Cooking
 
-Translated and made vegan by multiplemonomials
+Translated and modified/made vegan by multiplemonomials
 
 ## Original Description
 Soumen ramen that's delicious however you flavor it ♪!  For today's lunch, we'll we having miso ramen with soumen noodles -- it's like what you get from a ramen shop, but made easily in your house!
@@ -20,10 +20,10 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 
 **Broth:**
 - 1 tbsp minced garlic (~3 largeish cloves)
-- 1 tbsp soy sauce (shoyu)
+- 2 tbsp soy sauce (shoyu)
 - 1 tbsp mirin
 - 1 tbsp white sesame seeds
-- 2 tbsp miso
+- 4 tbsp miso
 - 2 tsp [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - 1 L (4.25 cups) water
 - 2 tsp fake butter (e.g. Earth Balance)
