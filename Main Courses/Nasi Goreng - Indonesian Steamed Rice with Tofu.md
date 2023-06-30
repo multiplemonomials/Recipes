@@ -1,6 +1,8 @@
 # Indonesian Steamed Rice (Nasi Goreng) with Tofu
 This is my twist on thevegetarianhannibal's recipe for Nasi Gorang, which is a sort of flavored, steamed dish of rice and veggies.  I like this recipe because it has a fairly mild flavor, nothing too spicy or bold, but it still manages a to have a complex taste that'll leave you wanting more!  I clarified/edited some parts of that recipe, and also added in some peppery pan-fried tofu that goes well with the salt-and-pepper flavor of the dish.  It may not be super authentic but it sure does taste good!
 
+![Bowl of Nasi Goreng](https://cdn.discordapp.com/attachments/1071706050736165005/1123487390254776390/20230627_223733.jpg)
+
 ## Modified From:
 [thevegatarianhannibal's Nasi Goreng recipe](https://thevegetarianhannibal.com/recipe/vegan-fried-rice/)
 
