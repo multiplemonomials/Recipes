@@ -11,7 +11,7 @@ Thank you for getting this recipe into the top 10 and the #1 most popular search
 
 I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7332766) [not translated yet! -TR]
 
-## Yield: 2 Servings
+## Yield: 2 Servings (~3.25 cups / 770mL broth)
 
 ## Ingredients:
 
