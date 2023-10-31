@@ -16,7 +16,7 @@ Similar to Bounty candy bars, these candy balls are made with a swet coconut fil
 - 2 cups (160 g) unsweetened shredded coconut.  Sweetened will also work but you should reduce the sugar amount.
 - 1 cup (240 g) coconut milk
 - 1 tsp agave syrup
-- 4 tsp white sugar (or 2 stevia packets)
+- 4 tsp white sugar (or equivalent artificial sweetener)
 - 0.25 tsp almond extract
 
 ### For assembly:
