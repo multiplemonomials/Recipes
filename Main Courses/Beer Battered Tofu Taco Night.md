@@ -14,6 +14,29 @@ Ever wished you could go to a taco bar and just have it be full of delicious veg
 ~5 full meals
 
 ## Ingredients:
+### Spanish Rice
+- 1/3 cup diced onion
+- 3 tbsp olive oil
+- 1.25 cups long-grain parboiled rice.  I usually [buy this online](https://www.amazon.com/Zatarains-Grain-White-Cholesterol-Sodium/dp/B009NY53YC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1) but apparently you can also find it at Indian markets.
+- 2 cups fake chicken broth (I use [No Chicken Better Than Boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK))
+- 1 cup water
+- 2 tbsp tomato paste
+- .25 tsp cumin
+- .25 tsp garlic powder
+- .5 tsp salt
+
+### Refried (but not actually fried) Beans
+- 2 tbsp refined coconut oil (careful not to use unrefined!  It tastes like coconuts!).
+- 1 small yellow onion, diced.  Can use a medium onion here and divide a bit for the rice & guacamole recipes.
+- 3 cloves garlic, minced
+- .25 cup (packed) finely chopped fresh cilantro
+- 2 tsp ground cumin
+- 1 tsp dried oregano
+- .5 tsp salt
+- 24-30 oz canned pinto beans, drained and rinsed
+- 1 cup vegetable broth, divided
+- 3 tbsp tomato paste
+
 ### Tofu
 - Grapeseed or other neutral oil (for frying the tofu)
 - 24 oz (2 packs) extra-firm tofu, pressed then cut into ~0.5 inch / 15mm cubes
@@ -29,30 +52,8 @@ Ever wished you could go to a taco bar and just have it be full of delicious veg
 - 2 tsp ground cumin
 - 1 tsp ground chipotle powder (I cut this in half for my GF who doesn't like spice)
 - 1 cup brown ale.  I like to use Guiness Draught Stout, e.g. [this kind](https://drizly.com/beer/ale/stout/dry-stout/guinness-draught/p4919)
+- 1 tbsp lemon juice
 - 4 cups loosely packed spinach (optional)
-
-### Refried (but not actually fried) Beans
-- 2 tbsp refined coconut oil (careful not to use unrefined!  It tastes like coconuts!).
-- 1 small yellow onion, diced.  Can use a medium onion here and divide a bit for the rice & guacamole recipes.
-- 3 cloves garlic, minced
-- .25 cup (packed) finely chopped fresh cilantro
-- 2 tsp ground cumin
-- 1 tsp dried oregano
-- .5 tsp salt
-- 24-30 oz canned pinto beans, drained and rinsed
-- 1 cup vegetable broth, divided
-- 3 tbsp tomato paste
-
-### Spanish Rice
-- 1/3 cup diced onion
-- 3 tbsp olive oil
-- 1.25 cups long-grain parboiled rice.  I usually [buy this online](https://www.amazon.com/Zatarains-Grain-White-Cholesterol-Sodium/dp/B009NY53YC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1) but apparently you can also find it at Indian markets.
-- 2 cups fake chicken broth (I use [No Chicken Better Than Boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK))
-- 1 cup water
-- 2 tbsp tomato paste
-- .25 tsp cumin
-- .25 tsp garlic powder
-- .5 tsp salt
 
 ### Guacamole
 - 2 avocados
