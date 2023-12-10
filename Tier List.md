@@ -25,8 +25,9 @@ For this I will assume that the recipe is the *only* thing one is eating for a g
 |---|---|---|---|---|---|---|
 | Penne Vodka | 6 | 4 | Well | I Can Cook Vegan p. 44 | Creamy pasta dish with delicious chunks of basil and garlic mixed in.  The cashew cream makes it soooo filling. | |
 | Impossible Meat Lomo Saltado | 3 | 6 | Decent, as long as you keep the rice separate | Impossible, The Cookbook p. 101 | Savory dish which combines Asian flavors (soy sauce, rice) and Mexican elements (yellow chili paste, tomatoes, cilantro). | |
-| Tahini Chipotle Hash Browns | 3 | 4 | Well | Isa Does It p. 249 | Savory, spicy potatoes plus vegan sausage with an INCREDIBLY flavorful tahini miso sauce on top.  What's not to love? | |
+| Tahini Chipotle Hash Browns | 3 | 4 | Well | Isa Does It p. 249 | Savory, spicy potatoes plus vegan sausage with an INCREDIBLY flavorful tahini miso sauce on top.  What's not to love?  (warning: make sure to decrease spice level in original recipe if you are not good with spice.  I use 1/2 the amount or less.)| |
 | Beer Battered Tofu Vegan Taco Night | 5 | 7 | Well, as long as chips/taco shells are stored separately | [This Repo](https://github.com/multiplemonomials/Recipes/blob/master/Main%20Courses/Beer%20Battered%20Tofu%20Taco%20Night.md) | Vegan tacos or taco salads bursting with flavor from fresh beans, spanish rice, tangy battered tofu, and guac. | |
+| Cajun Jambalaya | 3 | 5 | Very well | The Cajun Vegan Cookbook p. 109 | Imagine a rice pilaf, with parboiled rice and veggies.  Then make it even better, with spicy mayo sauce, fresh veggies, and sauteed vegan sausages.  This is EXTREMELY easy to double/triple/quadruple when feeding lots of people. | Cali-Cajun Sauce (aka spicy mayo), Cajun Seasoning |
 
 ## A Tier
 | Name | Servings Made (single batch) | Amount of Work | How well does it keep in fridge? | Source | Description | Dependencies/Sides |
