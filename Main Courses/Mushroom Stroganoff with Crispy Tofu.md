@@ -39,16 +39,16 @@ Isa Does It p. 130, plus my mom's tofu recipe.
 2. Preheat oven to broil mode (highest temperature, only top element on).
 3. Bring a large pot of salted water to a boil for the pasta.  When it's boiling, cook the pasta according to the package directions, drain, and set aside.  Save about a quarter cup of pasta water for later before you drain the pasta.
 4. Broil the tofu:
-  1. Cut tofu into thin slices (4mm x 15mm x 30mm). 
-  2. Get out the flat baking sheet and cover with a silpat, if you have one (NOT parchment paper, it will burn).
-  3. Lay out the tofu strips on the pans. 
-  4. Spray tofu with canola oil
-  5. Sprinkle liberally with half the sesame seeds and coarse salt.  A lot will not stay on but that's OK!
-  6. Broil in the oven for 8-10 minutes, until tofu begins to brown.  I generally broil on low, if your broiler only has a high setting then you will need to reduce the cooking time.
-  7. Remove pans from oven and flip over tofu.
-  8. Spray with oil and apply remaining sesame seeds and salt.
-  9. Broil for a further ~5 minutes until tofu is sizzling and moderately browned, but still has some whiteness visible
-  10. Remove tofu from oven and transfer into prep bowl
+    1. Cut tofu into thin slices (4mm x 15mm x 30mm). 
+    2. Get out the flat baking sheet and cover with a silpat, if you have one (NOT parchment paper, it will burn).
+    3. Lay out the tofu strips on the pans. 
+    4. Spray tofu with canola oil
+    5. Sprinkle liberally with half the sesame seeds and coarse salt.  A lot will not stay on but that's OK!
+    6. Broil in the oven for 8-10 minutes, until tofu begins to brown.  I generally broil on low, if your broiler only has a high setting then you will need to reduce the cooking time.
+    7. Remove pans from oven and flip over tofu.
+    8. Spray with oil and apply remaining sesame seeds and salt.
+    9. Broil for a further ~5 minutes until tofu is sizzling and moderately browned, but still has some whiteness visible
+    10. Remove tofu from oven and transfer into prep bowl
 5. Drain the cashews and add them to a blender along with the vegetable broth.  Blend until very smooth, with no graininess.  This could take anywhere from 1 to 5 minutes depending on the strength of your blender.  Scrape down the sides now and then with a spatula to make sure you get everything.
 6. Heat a large frying pan over medium heat and saute the onion in the oil along with a pinch of salt for about 5 minutes, until translucent.  Add the minced garlic into an empty spot on the pan and saute for 30 seconds or so, then mix it in with the onion.
 7. Add the mushrooms and thyme and cook until the mushrooms turn brown and mushy, about 5 more minutes.  Add the wine, tomato paste, remaining half teaspoon salt, and pepper.  Stir and turn the heat up to high, then let the wine reduce by about half.  This should take about 5 minutes.  Turn the heat back down to medium.
