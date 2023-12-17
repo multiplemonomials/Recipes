@@ -24,7 +24,7 @@ _Chloe Flavor_, p. 169
 - 3 tbsp [seasoned rice vinegar](https://www.amazon.com/Marukan-Vinegar-Rice-Ssnd-Grmt/dp/B01H4LC276/ref=sr_1_5?crid=2CMLHNFWHY4QU&keywords=seasoned+rice+vinegar&qid=1678423756&s=grocery&sprefix=seasoned+rice+%2Cgrocery%2C154&sr=1-5).  This is a rarer ingredient and is NOT the same as regular rice vinegar.
 - 3 tbsp maple syrup
 - 6 garlic cloves, minced
-- 2.25 tsp srirachia
+- 2.25 tsp sriracha
 - 3/8 tsp crushed red pepper flakes
 - 1.5 tsp (0.5 tbsp) cornstarch
 
