@@ -26,7 +26,7 @@ Enough cheeze for one largeish pizza
 2. Ensure the mixture is not hot -- it might be depending on how long you blended it for.  If it's warmer than lukewarm, shove it in the freezer for a few minutes to ensure that the carrageenan won't activate yet.
 3. Add the tapioca starch and carrageenan, then blend until incorporated, perhaps 20 seconds.
 4. Let the cheeze mixture sit until you're ready to make your pizza.  Once you have rolled out your dough and spread tomato sauce on top as desired, then you can continue.
-5. Pour a thin layer of cheeze from the blender onto the pizza, making sure to cover the entire thing.  Cheeze will still be a liquid at this stage.
+5. Pour the cheeze from the blender onto the pizza.  Use it sparingly at first until you have covered the entire pizza -- you don't want to run out before finishing the pizza!  Cheeze will still be a liquid at this stage.
 6. Top your pizza with desired toppings, and bake!
 7. When you remove the pizza from the oven, like magic, the cheeze will have set!  (note that I've only tested this with baking my pizza in a normal oven, so it's in there for 8-10 minutes.  I'm not totally sure how this will work if you have a proper pizza oven)
 
