@@ -1,6 +1,6 @@
 # Jamie's Mega Vegan Recipe List
 
-This page will list out the gevan recipes I've made that I recommend other people to try.  They are grouped into categories, and recipes in each category will be ranked according to both how great they taste *and* how easy they are to make.  Because it's not that I'm not willing to put effort into a recipe, but I also cook after work each day and I expect to end up with a couple servings of food each time I cook, so I don't want to waste effort!
+This page will list out the vegan recipes I've made that I recommend other people to try.  They are grouped into categories, and recipes in each category will be ranked according to both how great they taste *and* how easy they are to make.  Because it's not that I'm not willing to put effort into a recipe, but I also cook after work each day and I expect to end up with a couple servings of food each time I cook, so I don't want to waste effort!
 
 ##  Rankings
 
@@ -47,7 +47,7 @@ Note that many of these stir fries use seitan as a meat substitute.  You can usu
 
 ## Soups and Stews
 
-I think that soups are underused and underappreciated in our day and age.  It's rare for me to see soup served in restaurants, apart from places like school and work cafeterias that are just trying to be good enough to feed everyone.  In fact, you could argue that soup, in America, has a connotation of being an old-fashioned and/or lower-class food.  But so what!  Soup, made correctly, is delicious, and you could hardly ask for an easier dish to prepare in large quantities.  So long as you plan out enough time (usually in the 45-90 minute range) for the soup to finish cooking on the stove, you can get it set up then chill out while it simmers to completion.  
+I think that soups are underused and underappreciated in our day and age.  It's rare for me to see soup served in restaurants, apart from places like school and work cafeterias that are just trying to be good enough to feed everyone.  In fact, you could argue that soup, in America, has a connotation of being an old-fashioned and/or lower-class food.  But so what!  Soup, made correctly, is delicious, and you could hardly ask for an easier dish to prepare in large quantities.  So long as you plan out enough time (usually in the 45-90 minute range) for the soup to finish cooking on the stove, you can get it set up then chill out while it simmers to completion.  And while a soup might seem less filling per bite than other types of food, I think you'll find that you will still feel quite full after making any of these recipes!
 
 Plus, soup is unmatched for keeping well in the refrigerator -- since everything is soggy anyway, it doesn't get any soggier when you chill and reheat it!  The only exception is ramen-type soups, where you generally will want to make the noodles to order.  For ramen soups, the noodles can generally be replaced with soba noodles (made with buckwheat) as a gluten-free option.
 
@@ -59,6 +59,7 @@ Plus, soup is unmatched for keeping well in the refrigerator -- since everything
 | A | Easy Tortilla Soup | 3 | 3 | Happy Herbivore p. 68 | Considering how easy this recipe is to make, it really surprised me.  You literally just chop and saute an onion, add a bunch of canned stuff and spices to a pot, and simmer and blend for a bit.  And yet... it's good.  Really good.  I think the trick is that you mix corn tortillas right into the soup, lending it a delicious tortilla-y flavor.  It is not fancy, but it is really tasty. | |
 | A | CPK Dakota Smashed Pea and Barley Soup | 4 | Very well! | [Top Secret Recipes](https://topsecretrecipes.com/california-pizza-kitchen-dakota-smashed-pea-and-barley-soup-copycat-recipe.html) | I grew up eating this since it's the only vegan option at a certain Californian restaurant chain.  While ultimately a bit plain, it is a solid, hearty flavor which should pair well with most meals (plus it's surprisingly filling!).  Tip: Use No-Chicken Broth instead of vegetable broth. | |
 | A | Smoky Tomato Lentil Soup with Spinach and Olives | 5-6 | 5 | I Can Cook Vegan p. 134 | This soup surprised me!  Despite the fact that it's quite simple and doesn't contain any fake meat or cream, it's hearty and filling, not to mention delicious.  Savory kalamata olives and smoky paprika take its flavor a level above your standard vegetable soup. | |
+| A | Creamy Chickpea Bow Tie Soup | 5-6 | 4 | I Can Cook Vegan p. 140 | This soup is a favorite of mine at events, because it's very easy to make a double or triple batch in a big pot.  Despite the name, it's predominantly a thyme soup, as thyme, cream, and fake chicken broth are the main flavors you'll be tasting when you eat it.  And even though there's no meat or meat substitutes here, the cashew cream and chickpeas make sure you'll walk away satisfied. | |
 
 
 ## Pastas and Casseroles
@@ -81,6 +82,7 @@ Also note that most pasta dishes can be made whole-wheat with no change to the f
 
 Generally speaking, there are two kinds of sandwiches: ones where you have to carefully layer piece after piece in a delicate stack, and ones where you just slop some filling between two slices of bread and eat.  Given my preference for easy food, you can probably guess which kinda I hew towards.  However, labor intensive sandwhiches can often be the best tasting, so I will definitely give those recipes a shot as well!
 
+The only trouble with sandwhiches is that they don't make good take-to-work lunches, because you will generally have to store the bread separately and then assemble it with the fillings when you want to make the sandwich.  So, unless your break room has a toaster and a cutting board, make sure to plan accordingly!
 
 | Rank | Name | Servings Made (single batch) | Amount of Work | Source | Description | Dependencies/Sides |
 |---|---|---|---|---|---|---|
