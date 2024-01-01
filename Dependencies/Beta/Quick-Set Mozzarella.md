@@ -12,7 +12,7 @@ Enough cheeze for one largeish pizza
 
 ## Ingredients:
 - 100 g unroasted cashews (~a heaping 3/4 cup).  Unroasted is important, otherwise it will not taste right.
-- A bit less than 1 cup water
+- 7/8 cup water (3/4 cup plus 2 tbsp)
 - 4 tsp refined coconut oil, melted
 - 2 tsp apple cider vinegar
 - 2 tsp lemon juice
