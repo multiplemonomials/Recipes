@@ -18,7 +18,7 @@ Enough cheeze for one largeish pizza
 - 2 tsp lemon juice
 - 4 tsp nutritional yeast
 - 3/4 tsp onion powder
-- 1.5 tsp salt
+- 1 tsp salt
 - 4 tsp tapioca starch (e.g. [this one](https://www.amazon.com/Tapioca-Starch-Powder-16-Pack/dp/B007EFOEOW/ref=sr_1_5_pp?keywords=tapioca+starch&qid=1703058760&sr=8-5))
 - 1.5 tsp lambda carrageenan (e.g. [this one](https://www.amazon.com/Carrageenan-Molecular-Gastronomy-Non-GMO-Certified/dp/B07CZ2STF2/ref=sr_1_3?crid=3VJBDUD6ZC9GM&keywords=labda%2Bcarrageenan&qid=1703058795&sprefix=labda%2Bcarrageenan%2Caps%2C143&sr=8-3&th=1)).  Yes it's a little expensive but one bag will last a long time.  I believe that kappa carrageenan will also work but might get a harder cheese than intended.
 
