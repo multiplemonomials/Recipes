@@ -23,6 +23,7 @@ When researching this recipe, I had to dip into the non-vegan world, and was eve
 - 1.5tbsp vegetarian oyster sauce (e.g. [this](https://www.amazon.com/Vegetarian-Mushroom-Oyster-Sauce-35fl/dp/B00LBLYMMO/ref=sr_1_3?crid=1RNNN6LG712U9&dchild=1&keywords=vegetarian+oyster+sauce&qid=1601347380&sprefix=vegetarian+oys%2Caps%2C190&sr=8-3))
 - 1.5tsp dark soy sauce (e.g. [this](https://www.amazon.com/Pearl-River-Bridge-Superior-16-9-Ounce/dp/B01I4CVE8C/ref=sr_1_1_pp?crid=1UG7W24MPKKR3&keywords=pearl+river+bridge+dark+soy+sauce&qid=1707120023&s=grocery&sprefix=pearl+river+bridge+dark+soy+sauc%2Cgrocery%2C149&sr=1-1)) (This is a thicker, sweeter variant of soy sauce.  It tastes kind of like if you mixed regular soy sauce with molasses.  Unlike regular soy sauce, it must be stored in the fridge.)
 - 1 tbsp vegan fish sauce (e.g. [this](https://www.amazon.com/Oceans-Halo-Sauce-Vegan-Ounce/dp/B07RWVTYQZ/ref=sr_1_23_f3_0o_wf?keywords=vegan+fish+sauce&qid=1707120123&sr=8-23))
+- 1/4 tsp stevia (equivalent to 1.5 tsp white sugar)
 - 4.5 tbsp water
 - 1/16 tsp MSG (I use half of a 1/8 tsp measure)
 - 1/2 tsp rice vinegar (TODO, maybe try a little more next time)
