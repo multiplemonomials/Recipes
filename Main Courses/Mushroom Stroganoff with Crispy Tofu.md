@@ -18,7 +18,7 @@ Isa Does It p. 130, plus my mom's tofu recipe.
 ### Crispy Tofu:
 - extra-firm tofu (1 packs or 14 oz)
 - sesame seeds (~1.5 tbsp)
-- sprayable canola oil
+- aerosol can of canola oil or other veggie oil
 - coarse (kosher or sea) salt (1.5 tsp)
 ### Pasta:
 - 8 oz fusili
@@ -44,7 +44,7 @@ Isa Does It p. 130, plus my mom's tofu recipe.
     1. Cut tofu into thin slices (4mm x 15mm x 30mm). 
     2. Get out the flat baking sheet and cover with a silpat, if you have one (NOT parchment paper, it will burn).
     3. Lay out the tofu strips on the pans. 
-    4. Spray tofu with canola oil
+    4. Spray tofu with the oil
     5. Sprinkle liberally with half the sesame seeds and coarse salt.  A lot will not stay on but that's OK!
     6. Broil in the oven for 8-10 minutes, until tofu begins to brown.  I generally broil on low, if your broiler only has a high setting then you will need to reduce the cooking time.
     7. Remove pans from oven and flip over tofu.
