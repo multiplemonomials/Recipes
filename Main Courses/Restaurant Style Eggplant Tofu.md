@@ -37,7 +37,7 @@ _Chloe Flavor_, p. 169
 ## Directions:
 
 1. First, start the rice cooking in a rice maker or pot.
-2. In a saucepan, bring 4 cups water to a boil, and add 2 tsp of salt.  Add in the tofu slices and allow them to steam in the water for 3-5 minutes.  This infuses them with salt, making them extremly tasty.
+2. In a saucepan, bring 4 cups water to a boil, and add 2 tsp of salt.  Add in the tofu slices and allow them to steam in the water for 3-5 minutes once the water returns to a boil.  This infuses them with salt, making them extremly tasty.
 3. Remove the tofu and allow a few minutes for it to drain/dry.
 4. Heat up a wok or frying pan, and add enough vegetable oil to create a 1/4" deep pool of oil (half the height of the slices of tofu).  When the oil is hot and shimmering, add as many tofu pieces as will fit.  Allow the tofu to fry until a golden crust develops on the bottom, ~4 minutes.  Then, flip each piece and fry until the other side looks similar, ~3 minutes.
 5. Transfer the fried tofu pieces to a plate with a paper towel on it (which will soak up excess oil).  Then, cut each rectangle in half along its longest diagonal, forming two triangular pieces.
