@@ -16,7 +16,7 @@ _Chloe Flavor_, p. 169
 **Tofu:**
 - 1 block firm tofu, cut into ~2" x ~2" x 1/2" rectangular prisms.  Firm preferred but extra-firm will also work.
 - Vegetable oil for frying, at least 1/2 cup
-- 2 tsp salt
+- 3 tsp salt
 
 **Sauce:**
 - 0.5 cup water
