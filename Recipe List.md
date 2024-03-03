@@ -75,7 +75,7 @@ Also note that most pasta dishes can be made whole-wheat with no change to the f
 |---|---|---|---|---|---|---|
 | S | Penne Vodka | 6 | 4 | I Can Cook Vegan p. 44 | Creamy pasta dish with delicious chunks of basil and garlic mixed in.  The cashew cream makes it soooo filling. Add ground-up, stir-fried impossible meat to the sauce for extra fillingness. | |
 | A | Cajun Casserole | 6 | 4 | The Cajun Vegan Cookbook p. 93 | Pasta, veggies, and fake meat and cheese in a sauce full of Cajun flavors.  Rich and delicious, my friends always ask me to make this one again.  Tip: Add more salt, the recipe is a bit skimpy on it. |
-| A | Fettucine Alfredo with Bacon Bits | 3 | 4 | Happy Herbivore p. 163, p. 137 | Another easy and light recipe out of Happy Herbivore.  Blended silken tofu adds plenty of creaminess, and the sauce is nicely complemented by generous amounts of fake bacon bits and peas. | |
+| A | Fettucine Alfredo with Bacon Bits | 3 | 4 | Happy Herbivore p. 163, p. 137 | Another easy and light recipe out of Happy Herbivore.  Blended silken tofu adds plenty of creaminess, and the sauce is nicely complemented by generous amounts of fake bacon bits (use one whole recipe!) and peas. | |
 | A | Fiesta Mac & Cheese | 6 | 4 | Chloe Flavor p.155 | Despite how much I love vegan cooking, I admit that it's probably impossible to create vegan mac & cheese that tastes quite like real mac & cheese.  But, what us vegans _can_ do is create a mac & cheese that stands on its own as a tasty recipe, rather than trying to perfectly imitate the original.  That's what this recipe is -- it takes a solid cashew cheese base and adds other ingredients, like jalapeno peppers, tomatoes, and kidney beans, to add even more depth to the flavor.  Tip: throw in a teaspoon of red miso and/or apple cider vinegar for an even cheddarier taste. | |
 
 
@@ -90,6 +90,17 @@ The only trouble with sandwhiches is that they don't make good take-to-work lunc
 | S | Bacon Lover's Tempeh BLT | 4 | 6 | Chloe Flavor p. 108 | The best vegan BLT (TLT?) I've had -- this recipe involves marinading tempeh slices in a sweet and spicy bacon-esque marinade, then pan frying them until they're crunchy.  Would recommend doubling the amount of tempeh but keeping a similar amount of marinade. | Aoli, which one can do without. |
 | A | Autumn Seitan Salad Sandwich | 3-4 | 4 | I Can Cook Vegan p. 102 | Imagine taking a savory seitan stir fry, slathering it in mayonnaise and cranberries, and putting it between two slices of bread.  That's basically what this recipe is, and I love it so much. | Seitan |
 | A- | Sloppy Chlo's | 6 | 4 | Chloe Flavor p.129 | This sandwich is easy, but tasty.  Basically, you stir-fry veggies and mushrooms, then add tomato sauce, spices, and lentils to create a thick, flavorful Sloppy Joe-style filling.  Tip: Serve with lots of fake mayo on top!  Note: If you have a food processor, you could probably use it to make large batches of this very efficiently, since you just need to dice all the veggies into small pieces. | |
+
+
+## Salad Dressings
+I love salads, but I rarely make my own.  First of all, it's tough to buy big amounts of lettuce, cabbage, carrots, and other veggies, cut them up, and then use them before they go bad.  And second of all, the dressings that come in storebought salads usually taste better to me than what I've been able to make myself.
+However! These days, it's easy to get "salad mixes" of greens where you just need to add dressing and toppings to make a salad.  And also, I've finally managed to find some salad dressings with robust flavor that can make salads worth eating.
+
+Note: for the "servings made" in this section, 1 serving equals enough dressing to dress one large (full meal) salad for one person, or about 4-6 cups of greens.
+
+| Rank | Name | Servings Made (single batch) | Amount of Work (for dressing only) | Source | Description |
+|---|---|---|---|---|---|---|
+| A | Isa's Caesar Dressing | ~4 | 3 | Fake Meat p. 61 | Tasty ceasar-style dressing.  It's based on vegan mayo plus garlic, lemon juice, and nutritional yeast, and it uses capers (of all things) to add that slightly fishy taste |
 
 ## Other
 

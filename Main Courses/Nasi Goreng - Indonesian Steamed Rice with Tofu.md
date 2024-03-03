@@ -4,7 +4,7 @@ This is my twist on thevegetarianhannibal's recipe for Nasi Gorang, which is a s
 ![Bowl of Nasi Goreng](https://cdn.discordapp.com/attachments/1071706050736165005/1123487390254776390/20230627_223733.jpg)
 
 ## Modified From:
-[thevegatarianhannibal's Nasi Goreng recipe](https://thevegetarianhannibal.com/recipe/vegan-fried-rice/)
+[thevegatarianhannibal's Nasi Goreng recipe](https://web.archive.org/web/20220701202010/https://thevegetarianhannibal.com/recipe/vegan-fried-rice/)
 
 Tofu recipe from _The Korean Vegan_ p. 243
 
@@ -25,11 +25,11 @@ Tofu recipe from _The Korean Vegan_ p. 243
 - 1 cup uncooked rice.  I recommend [parboiled rice](https://www.amazon.com/Zatarains-Grain-White-Cholesterol-Sodium/dp/B009NY53YC/ref=sxts_rp_s_1_0?content-id=amzn1.sym.14b5a3ec-ddf3-42f1-bf1e-8515f8d25a34%3Aamzn1.sym.14b5a3ec-ddf3-42f1-bf1e-8515f8d25a34&cv_ct_cx=Parboiled+Rice&keywords=Parboiled+Rice&pd_rd_i=B009NY53YC&pd_rd_r=fc9c08da-0da1-4f00-b36f-b4d921dc6ac4&pd_rd_w=tuRXV&pd_rd_wg=DUjl5&pf_rd_p=14b5a3ec-ddf3-42f1-bf1e-8515f8d25a34&pf_rd_r=JXAY9V00DKCF4BQ9W5Z4&psc=1&qid=1662937450&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6) for this, but white rice will also work.
 - 2 tbsp olive oil
 - 1 small yellow or purple onion, chopped
-- ~1.5 cups cooked corn (canned works well)
+- ~1.5 cups cooked corn (drained canned corn works well)
 - 1 red bell pepper, chopped
 - 1 medium broccoli flower, chopped, or ~2 cups broccoli florets
 - 6 cloves garlic, minced
-- 10 g ginger, minced (~4 tsp once minced)
+- ~4-5 tsp minced ginger (~15g before mincing and peeling)
 - 1/2 cup vegetable broth
 - 2 tsp sumac
 
