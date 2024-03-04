@@ -74,7 +74,7 @@ Two cookie-sheet size, medium crust pizzas.  At least 6 full meals.
 15. To transfer the dough to the cookie sheet, dust the top of the dough with flour (this is important, or it will get stuck).  Then, roll the dough up, coiling it around the rolling pin.  You can then unroll it onto the cookie sheet, moving from one end to the other.
 16. To create the crust, move around the edge of the pizza with your fingers, pinching the dough into a thicker ridge.  Then brush with olive oil.
 
-![Pizza with Crust](https://app.box.com/shared/static/s25a4g2i4u25cmnqwfof3mosuj1vwnio.jpg)
+![Pizza with Crust](https://app.box.com/shared/static/ttrvniee16tye2fc9bwmt4mosk25e8lr.jpg)
 
 17. Pour one cup of the marinara sauce onto the dough and spread it around with a spoon so it's as even as you can get it.  
 18. Then pour on half the still-liquid cheeze (1.5 cups of it).  Use it sparingly at first until you have covered the entire pizza -- you don't want to run out before finishing the pizza!  Cheeze will still be a liquid at this stage.
