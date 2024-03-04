@@ -8,7 +8,7 @@ Isa's cookbook uses a specific process for making vegan cheeze, where you start 
 _Fake Meat_ p. 286 and p.291
 
 ## Yield:
-Enough cheeze for one largeish pizza
+Enough cheeze for one largeish pizza (~1.5 cups)
 
 ## Ingredients:
 - 100 g unroasted cashews (~a heaping 3/4 cup).  Unroasted is important, otherwise it will not taste right.
