@@ -7,7 +7,7 @@ Ever wished you could go to a taco bar and just have it be full of delicious veg
 ## Original Sources:
 - Rice: Modified from [here](https://www.food.com/recipe/easy-mexican-rice-170088#recipe)
 - Beans: Refried Beans from _Fake Meat_ by Isa Chandra Moskowitz, p. 51
-- Filling: "Beer-Braised Tofu Tacs with Spinach" from _I Can Cook Vegan_ by Isa Chandra Moskowitz, p. 104
+- Filling: "Beer-Braised Tofu Tacps with Spinach" from _I Can Cook Vegan_ by Isa Chandra Moskowitz, p. 104
 - Guacamole: Isabel's family recipe
 
 ## Yield:
