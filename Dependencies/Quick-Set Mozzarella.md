@@ -15,7 +15,7 @@ Enough cheeze for one largeish pizza (~1.5 cups)
 - 7/8 cup water (3/4 cup plus 2 tbsp)
 - 4 tsp refined coconut oil, melted
 - 2 tsp apple cider vinegar
-- 2 tsp lemon juice
+- 1.5 tsp lemon juice
 - 4 tsp nutritional yeast
 - 3/4 tsp onion powder
 - 1 tsp salt
