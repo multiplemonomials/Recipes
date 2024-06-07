@@ -26,7 +26,7 @@ When researching this recipe, I had to dip into the non-vegan world, and was eve
 - 1/4 tsp stevia (equivalent to 1.5 tsp white sugar)
 - 4.5 tbsp water
 - 1/16 tsp MSG (I use half of a 1/8 tsp measure)
-- 1/2 tsp rice vinegar (TODO, maybe try a little more next time)
+- 1/2 tsp seasoned rice vinegar (TODO, maybe try a little more next time)
 
 **Stir Fry:**
 - 1.5 cups dry white rice (equivalent to 2 Zojirushi rice maker cups)
