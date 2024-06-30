@@ -37,10 +37,10 @@ _Chloe Flavor_, p. 169
 ## Directions:
 
 1. First, start the rice cooking in a rice maker or pot.
-2. In a saucepan, bring 4 cups water to a boil and add 3 tsp of salt.  Add in the tofu slices and allow them to steam in the water for 3-5 minutes once the water returns to a boil.  This infuses them with salt, making them extremly tasty.
+2. In a saucepan, bring 4 cups water to a boil over high heat and add 3 tsp of salt.  Add in the tofu slices and allow them to steam in the water for 3-5 minutes once the water returns to a boil.  This infuses them with salt, making them extremly tasty.
 3. Use a slotted spoon to remove the tofu to a bowl or colander and allow a few minutes for it to cool off.
 4. Heat up a wok or frying pan over medium heat and add enough vegetable oil to create a 1/4" deep pool of oil (half the height of the slices of tofu).  When the oil is hot and shimmering, add as many tofu pieces as will fit.  Allow the tofu to fry until a golden crust develops on the bottom, ~4 minutes.  Then, flip each piece and fry until the other side looks similar, ~3 minutes.
-5. Transfer the fried tofu pieces to a plate with a paper towel on it (which will soak up excess oil).  Then, cut each rectangle in half along its longest diagonal, forming two triangular pieces.
+5. Transfer the fried tofu pieces to a plate with a paper towel on it (which will soak up excess oil).  Then, once it cools, cut each rectangle into four pieces along the diagonals.
 6. Repeat for the remaining tofu until all of it is fried.  Remaining oil can be transferred to a heatproof container, put in the fridge, and reused.
 7. In a small bowl, stir together the sauce ingredients and set aside.
 8. In the wok or skillet, heat just 2 tbsp vegetable oil over medium-high heat.  When it shimmers, add the eggplant and half the green onions.
