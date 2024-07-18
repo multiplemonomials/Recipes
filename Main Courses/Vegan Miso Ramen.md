@@ -23,7 +23,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 - 2 tbsp soy sauce (shoyu).  To make it interesting, can use a mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman).
 - 2 tsp mirin
 - 2 tsp white sesame seeds
-- 2.5 tbsp red miso or 4 tbsp white miso
+- 3 tbsp red miso or 4 tbsp white miso
 - 1.5 tsp (1/2 tbsp) [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK) [replacing chicken broth in the original recipe]
 - 750 mL (3.25 cups) water
 - 1 tsp fake butter (e.g. Earth Balance) [this replaces beef tallow in the original recipe]
