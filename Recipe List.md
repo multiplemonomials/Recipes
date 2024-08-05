@@ -14,14 +14,14 @@ This page will list out the vegan recipes I've made that I recommend other peopl
 ## Work Amounts
 Using a 1-10 scale for work amounts.
 - 1 means you reheat it and eat it
-- 2 would be equivalent to packaged (non instant) ramen, where you boil noodles and chop up some toppings and you can be done in under 15 min.
+- 2 would be like a peanut butter and jelly sandwich or non instant packaged ramen, where you boil noodles and chop up some toppings and you can be done in under 15 min.
 - 5 would be something like standard stir fry or pasta, where you have to chop up some veggies and cook for an hour or so
 - 8 would be something which requires making pre-recipes, managing multiple dishes at the same time, doing pastry crusts, etc.
 
 ## Servings Made
 For this I will assume that the recipe is the *only* thing one is eating for a given meal, i.e. no side dishes.  This generally means my serving counts can be lower than what's printed in the cookbooks.
 
-Note that generally doubling a recipe will increase the amount of work by around 0.5 to 1 level (since the cooking process is generally the same, you just have to chip more ingredients).
+Note that generally doubling a recipe will increase the amount of work by around 0.5 to 1 level (since the cooking process is generally the same, you just have to chop more ingredients and cook for longer).
 
 # Main Courses
 ## Stir Fries
@@ -33,10 +33,11 @@ Note that many of these stir fries use seitan as a meat substitute.  You can usu
 |---|---|---|---|---|---|---|
 | S | Impossible Meat Lomo Saltado | 3 | 6 | Impossible, The Cookbook p. 101 | Savory dish which combines Asian flavors (soy sauce, rice) and South American elements (yellow chili paste, tomatoes, cilantro). | |
 | S | Tahini Chipotle Hash Browns | 3 | 4 | Isa Does It p. 249 | Savory, spicy potatoes plus vegan sausage with an INCREDIBLY flavorful tahini miso sauce on top.  What's not to love?  (warning: make sure to decrease spice level in original recipe if you are not good with spice.  I use 1/2 the amount or less of peppers.) | |
-| S | Seitan Broccoli Stir-Fry with Spicy Cashew Dressing | 2-3 | 5 (not incl. seitan) | Chloe Flavor p. 184 | This is one of the most simple & amazing seitan recipes I've ever made and is a genuine family favorite.  It uses not one but _two_ sauces - a thin, savory sauce applied directly to the seitan, and a spicy, creamy, tangy cashew sauce topping each dish.  All of this is on top of pan-fried, crispy seitan, rice, and broccoli.  I think every single person I've made this for has said it's an instant favorite.  Tip: Pan-fry the seitan first on its own for maximum crunchiness.  Tip: The cashew sauce recipe makes enough for a double batch of the stir fry. | Seitan |
+| S | Seitan Broccoli Stir-Fry with Spicy Cashew Dressing | 2-3 | 4 (not incl. seitan) | Chloe Flavor p. 184 | This is one of the most simple & amazing seitan recipes I've ever made and is a genuine family favorite.  It uses not one but _two_ sauces - a thin, savory sauce applied directly to the seitan, and a spicy, creamy, tangy cashew sauce topping each dish.  All of this is on top of pan-fried, crispy seitan, rice, and broccoli.  I think every single person I've made this for has said it's an instant favorite.  Tip: Pan-fry the seitan first on its own for maximum crunchiness.  Tip: The cashew sauce recipe makes enough for a double batch of the stir fry. | Seitan |
 | S | Isa's Everyday Pad Thai | 4-5 | 5 | Isa Does It p. 179 | This recipe is a bona fide family favorite -- my mom has literally been making it since I was a kid, and I have loved it every single time.  It isn't terribly fancy, but it hits all the notes that a Pad Thai should, with rice noodles soaking up tangy, sweet sauce and crunchy peanuts and bean sprouts on top.  Tip: Add a tablespoon or two of peanut butter to the sauce to make it even creamier. | |
 | S | Panang Curry | 5 | 5 | Chloe Flavor p. 183 | As good as any restaurant curry I've had -- it turns out that peanut butter, curry powder, and coconut milk make a pretty unbeatable combination when used together in a curry, and sweet potatoes, onions, and chickpeas don't disappoint in the veggie department.  Tip: I love to add a red bell pepper in with the veggies, and throw in sauted tofu at the end. | Rice |
 | S | Cajun Jambalaya | 3 | 4 | The Cajun Vegan Cookbook p. 109 | Imagine a rice pilaf, with parboiled rice and veggies.  Then make it even better, with spicy mayo sauce, fresh celery, onion, and pepper, and sauteed vegan sausages.  This is EXTREMELY easy to double/triple/quadruple when feeding lots of people. | Cali-Cajun Sauce (aka spicy mayo), Cajun Seasoning |
+| A+ | Spanish Chick'n and Rice | 4 | 5 | Fake Meat p. 92 | What if there was jambalaya but... spanish?  That's probably the best way I can describe this dish, since it's a pan of rice mixed with veggies, fake meat, tomatoes, paprika, and kalamata olives.  Note: I am hot a huge fan of Isa's fake chicken recipe; I prefer using either soy curls or storebought fake chicken. | |
 | A | Pad Ka-Prao | 3 | 4 | Impossible, The Cookbook p. 80 | Imagine a sort of impossible meat burger filling absolutely bursting with licorice-y thai basil flavor, served on top of rice.  That's this in a nutshell. | Rice |
 | A | Indonesian Steamed Rice (Nasi Goreng) with Tofu | 4-5 | 5 | [This Repo](https://github.com/multiplemonomials/Recipes/blob/master/Main%20Courses/Nasi%20Goreng%20-%20Indonesian%20Steamed%20Rice%20with%20Tofu.md) | Sometimes you just want something light and easy on the stomach, with no spiciness and no strong flavors.  This mellow veggie stir fry manages to still be delicious while only containing gentle turmeric, sumac, and pepper flavors. | |
 | A | Isa's Cast Iron Stir Fry | 3-4 | 5 | Isa Does It p. 30 | This recipe is a stir fry that typifies what I like about stir fries.  You mostly taste the veggies and rice, but they are accented by a sweet hoisin-based sauce and complimented by peanuts and avocado on top. Note: Avocado will not keep after being cut up, and has to be cut to order. | |
@@ -61,13 +62,14 @@ Plus, soup is unmatched for keeping well in the refrigerator -- since everything
 | A | CPK Dakota Smashed Pea and Barley Soup | 4 | Very well! | [Top Secret Recipes](https://topsecretrecipes.com/california-pizza-kitchen-dakota-smashed-pea-and-barley-soup-copycat-recipe.html) | I grew up eating this since it's the only vegan option at a certain Californian restaurant chain.  While ultimately a bit plain, it is a solid, hearty flavor which should pair well with most meals (plus it's surprisingly filling!).  Tip: Use No-Chicken Broth instead of vegetable broth. | |
 | A | Smoky Tomato Lentil Soup with Spinach and Olives | 5-6 | 5 | I Can Cook Vegan p. 134 | This soup surprised me!  Despite the fact that it's quite simple and doesn't contain any fake meat or cream, it's hearty and filling, not to mention delicious.  Savory kalamata olives and smoky paprika take its flavor a level above your standard vegetable soup. | |
 | A | Creamy Chickpea Bow Tie Soup | 5-6 | 4 | I Can Cook Vegan p. 140 | This soup is a favorite of mine at events, because it's very easy to make a double or triple batch in a big pot.  Despite the name, it's predominantly a thyme soup, as thyme, cream, and fake chicken broth are the main flavors you'll be tasting when you eat it.  And even though there's no meat or meat substitutes here, the cashew cream and chickpeas make sure you'll walk away satisfied. | |
+| A | Yellow Split Pea Soup with Grilled Eggplant | 4 | 4 | I Can Cook Vegan p. 132 | While this soup doesn't use many ingredients, it really works well due to the complex flavor of yellow split peas and the delicious, smoky flavor of grilled eggplant.  Tip: Use No-Chicken Broth instead of vegetable broth. | |
 
 
 ## Pastas and Casseroles
 
 Pasta is a family favorite not just because it's delicious, and because it can be made in so many ways, but also because it's easy to prepare in bulk.  Most of the effort in any pasta dish will go into the sauce, and you generally won't need to spend that much time chopping veggies or stir frying.  If you can just get the sauce right, you're golden!  Additionally, most pasta dishes will keep well for several days in the fridge, with no extra steps needed.
 
-For those who have only heard the term "casserole" from 80s TV shows and comics (that was me a few years ago), you could be forgiven for thinking that they're little more than a punchline to old jokes.  But actually, a casserole is just pasta baked in a big dish in the oven -- no more, no less.  They are great for events because you can prepare everything ahead of time in one dish, then whack it in the oven and take it out an hour later ready to eat.  Not to mention, it will stay warm in the casserole dish for hours, so it's great for taking to picnics or parties.  If you stick to the casserole recipes in this list, you should be able to avoid becoming a punchline
+For those who have only heard the term "casserole" from 80s TV shows and comics (that was me a few years ago), you could be forgiven for thinking that they're little more than a punchline to old jokes.  But actually, a casserole is just pasta baked in a big dish in the oven -- no more, no less.  They are great for events because you can prepare everything ahead of time in one dish, then whack it in the oven and take it out an hour later ready to eat.  Not to mention, it will stay warm in the casserole dish for hours, so it's great for taking to picnics or parties.  If you stick to the casserole recipes in this list, you should be able to avoid becoming a punchline.
 
 Also note that most pasta dishes can be made whole-wheat with no change to the flavor by subbing in whole wheat pasta, and there are some gluten-free pasta options as well (though I have heard mixed things about these).
 
@@ -94,14 +96,16 @@ The only trouble with sandwhiches is that they don't make good take-to-work lunc
 
 
 ## Salad Dressings
-I love salads, but I rarely make my own.  First of all, it's tough to buy big amounts of lettuce, cabbage, carrots, and other veggies, cut them up, and then use them before they go bad.  And second of all, the dressings that come in storebought salads usually taste better to me than what I've been able to make myself.
+I love salads, but I rarely make my own from scratch.  First of all, it's tough to buy big amounts of lettuce, cabbage, carrots, and other veggies, cut them up, and then use them before they go bad.  And second of all, the dressings that come in storebought salads usually taste better to me than what I've been able to make myself.
 However! These days, it's easy to get "salad mixes" of greens where you just need to add dressing and toppings to make a salad.  And also, I've finally managed to find some salad dressings with robust flavor that can make salads worth eating.
 
-Note: for the "servings made" in this section, 1 serving equals enough dressing to dress one large (full meal) salad for one person, or about 4-6 cups of greens.
+Note: for the "servings made" in this section, 1 serving equals enough dressing to dress one large (full meal) salad for one person, which is about 10 oz / 4-6 cups of greens.  Also, some dressings are more potent than others, so I included an approximate measure of how much dressing you need for one serving of salad.
 
-| Rank | Name | Servings Made (single batch) | Amount of Work (for dressing only) | Source | Description |
-|---|---|---|---|---|---|---|
-| A | Isa's Caesar Dressing | ~4 | 3 | Fake Meat p. 61 | Tasty ceasar-style dressing.  It's based on vegan mayo plus garlic, lemon juice, and nutritional yeast, and it uses capers (of all things) to add that slightly fishy taste |
+| Rank | Name | Amount Made (single batch) | Amount of Dressing Per Salad | Amount of Work (for dressing only) | Source | Description |
+|---|---|---|---|---|---|---|---|
+| A | Isa's Caesar Dressing | 1 cup (TODO double check) | 1/3 cup (TODO double check) | 3 | Fake Meat p. 61 | Tasty ceasar-style dressing.  It's based on vegan mayo plus garlic, lemon juice, and nutritional yeast, and it uses capers (of all things) to add that slightly fishy taste |
+| B | Isa's Zesty Italian Dressing | 3/4 cup | 1/4 cup | 3 | Fake Meat p. 314 | Somewhere between the cajun ceasar and a traditional italian dressing -- this has some kick to it thanks to mustard and red wine vinaigrette |
+
 
 ## Other
 
@@ -111,10 +115,13 @@ This section is for main courses which don't fit into the other categories.
 |---|---|---|---|---|---|---|
 | A | Beer Battered Tofu Vegan Taco Night | 5 | 7 | [This Repo](https://github.com/multiplemonomials/Recipes/blob/master/Main%20Courses/Beer%20Battered%20Tofu%20Taco%20Night.md) | Vegan tacos or taco salads bursting with flavor from homemade beans, homemade spanish rice, tangy battered tofu, and guac. | |
 
-# Appetizers
+## Appetizers
 
 This section is for recipes which aren't really intended to be one's main course at a meal, but are great for parties/events where people are going to be nibbling.
 
+Note: "servings made" in this section still refers to the number of full meals it makes.  So, you can probably multiply up the number of servings by a couple times when serving these as appetizers.
+
 | Rank | Name | Servings Made (single batch) | Amount of Work | Source | Description | Dependencies/Sides |
 |---|---|---|---|---|---|---|
+| S | Peanut Lime Tempeh Wings | 3 | 4 | Fake Meat p. 217 | If you love peanuts like me, you have no excuse for not trying this dish out at least once.  Tempeh is crunchy and filling, but lacks flavor by itself. But combine it with some thai-style peanut ginger sauce and... OMG it is so decadent.  The first time 
 | A | Tempeh Larb | 3 | 5 | Fake Meat p. 153 | Larb is a Thai dish which consists of a very flavorful tangy, sweet, and slightly fishy filling wrapped in crunchy lettuce leaves.  Isa's version uses crumbled tempeh and powdered rice for a very interesting texture.  Warning: You do need some odd ingredients for this one (kelp powder and glutinous rice) | |
