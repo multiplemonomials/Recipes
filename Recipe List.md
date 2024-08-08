@@ -102,7 +102,7 @@ However! These days, it's easy to get "salad mixes" of greens where you just nee
 Note: for the "servings made" in this section, 1 serving equals enough dressing to dress one large (full meal) salad for one person, which is about 10 oz / 4-6 cups of greens.  Also, some dressings are more potent than others, so I included an approximate measure of how much dressing you need for one serving of salad.
 
 | Rank | Name | Amount Made (single batch) | Amount of Dressing Per Salad | Amount of Work (for dressing only) | Source | Description |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | A | Isa's Caesar Dressing | 1 cup (TODO double check) | 1/3 cup (TODO double check) | 3 | Fake Meat p. 61 | Tasty ceasar-style dressing.  It's based on vegan mayo plus garlic, lemon juice, and nutritional yeast, and it uses capers (of all things) to add that slightly fishy taste |
 | B | Isa's Zesty Italian Dressing | 3/4 cup | 1/4 cup | 3 | Fake Meat p. 314 | Somewhere between the cajun ceasar and a traditional italian dressing -- this has some kick to it thanks to mustard and red wine vinaigrette |
 
