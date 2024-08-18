@@ -38,7 +38,7 @@ Baking: ~30 min.
 1. Adjust oven rack to middle position and heat oven to 375°F.  Line two baking sheets with parchment paper on top of a silicone mat.  While not absolutely required, the silicone mat is highly recommended to insulate the bottoms of the cookies and keep them from burning.  Place the 1/3 cup of sugar for dipping in a mixing bowl or cake pan.
 2. Whisk everything in the **Dry Ingredients** section together in a mixing bowl and set aside.
 3. Measure the vanilla and molasses and set them next to the mixture.  Combine the egg replacer ingredients and mix together.
-4. Add the butter and sugars to the mixer and beat on medium-high until light and fluffy, about 3 minutes.
+4. Add the butter, shortening, and sugars to the mixer and beat on medium-high until light and fluffy, about 3 minutes.
 5. Reduce speed to medium low and add the egg replacer mixture and vanilla, then increase speed to medium and beat until incorporated (about 20 seconds).
 6. Reduce speed to medium low and add the molasses, then beat until incorporated (about 20 seconds).
 7. Stop mixer and scrape down the sides with a spatula.
