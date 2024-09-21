@@ -15,7 +15,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 
 ## Ingredients:
 
-- 2 bundles (~100g) soumen noodles (or can use 8oz fresh ramen noodles)
+- 2 bundles (~75g each) soumen noodles (or can use 8oz fresh ramen noodles)
 - Whatever toppings you prefer! (I recommend tofu, cooked fake chicken, green onions, etc)
 
 **Broth:**
@@ -23,6 +23,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 - 2 tbsp soy sauce (shoyu).  To make it interesting, can use a mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman).
 - 2 tsp mirin
 - 2 tsp white sesame seeds
+- 0.5 tsp toasted sesame oil
 - 3 tbsp red miso or 4 tbsp white miso
 - 1.5 tsp (1/2 tbsp) [fake chicken boullion](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK) [replacing chicken broth in the original recipe]
 - 750 mL (3.25 cups) water
@@ -32,7 +33,7 @@ I also recommend my recipe for [soumen shoyu ramen](https://cookpad.com/recipe/7
 ## Directions:
 
 1. First, we will make the easy broth.  Preheat a pot over medium-high heat.
-2. In a small bowl, mix together the minced garlic, miso, soy sauce, mirin, and sesame seeds with a fork until combined.
+2. In a small bowl, mix together the minced garlic, miso, soy sauce, mirin, sesame seeds, and sesame oil with a fork until combined.
 3. Quickly, lightly fry the miso mixture in the pot for a few minutes until the flavor is released, stirring constantly so it doesn't burn.
 
 ![Picture of frying the miso mixture](https://img.cpcdn.com/steps/35646832/m/b51bb7202f62d39c82b43a426a15e278?u=46684425&p=1681200103)

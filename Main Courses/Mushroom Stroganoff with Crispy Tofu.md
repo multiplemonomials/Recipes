@@ -1,6 +1,6 @@
 # Mushroom Stroganoff with Crispy Sesame Tofu
 
-From the name, it might sound like some sort of famous composer, but this recipe is actually a creamy mushroom pasta dish, with savory sauce folded into every curl of pasta and deliciously crunchy tofu to make it even more filling.
+From the name, it might sound like some sort of famous composer, but this recipe is actually a creamy mushroom pasta dish, with savory sauce folded into every curl of pasta and served with deliciously crunchy tofu to make it even more filling.
 
 ## Original Source:
 Isa Does It p. 130, plus my mom's tofu recipe.

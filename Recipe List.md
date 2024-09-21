@@ -124,5 +124,5 @@ Note: "servings made" in this section still refers to the number of full meals i
 
 | Rank | Name | Servings Made (single batch) | Amount of Work | Source | Description | Dependencies/Sides |
 |---|---|---|---|---|---|---|
-| S | Peanut Lime Tempeh Wings | 3 | 4 | Fake Meat p. 217 | If you love peanuts like me, you have no excuse for not trying this dish out at least once.  Tempeh is crunchy and filling, but lacks flavor by itself. But combine it with some thai-style peanut ginger sauce and... OMG it is so decadent.  The first time 
+| S | Peanut Lime Tempeh Wings | 3 | 4 | Fake Meat p. 217 | If you love peanuts like me, you have no excuse for not trying this dish out at least once.  Tempeh is crunchy and filling, but lacks flavor by itself. But combine it with some thai-style peanut ginger sauce, tangy veggies, and hot sauce and... OMG it is so decadent.  The first time I made this I couldn't stop eating it and completely ruined my appetite for the actual meal. | |
 | A | Tempeh Larb | 3 | 5 | Fake Meat p. 153 | Larb is a Thai dish which consists of a very flavorful tangy, sweet, and slightly fishy filling wrapped in crunchy lettuce leaves.  Isa's version uses crumbled tempeh and powdered rice for a very interesting texture.  Warning: You do need some odd ingredients for this one (kelp powder and glutinous rice) | |
