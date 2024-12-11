@@ -66,7 +66,7 @@ Now for the actual dishes!  I'll cover all the ones I have made, chapter by chap
 | Rogan Josh | S | 2 | Not to be confused with a certain controversial podcaster, this is an extremely flavorful Indian-style curry with meaty seitan pieces and a cool coconut cucumber sauce on top. | One of the more labor intensive recipes in this book, but very worth it! |
 | Tempeh is For Lovers Chili Con Carne | S | 3 | Takes the crown as Isa's best chili recipe, and my personal favorite. Tons of flavor, and fake cheddar and (storebought!) fake sour cream give it a delicious creaminess. | I generally describe it as a "soybean chili" when people ask what it is. |
 | Irish Beef Stew | A | 2 | A solid veggie and sausage stew. The beer adds a complex flavor! The broth starts out very bitter but mellows out after being cooked for a while. | I made this with guiness, which is a type of stout (which I did NOT know until I asked my coworkers). |
-| Lasagna Boglonese Stew | A | 1 | It's good!  Definitely tastes like lasagna, while being a bit less work. | I feel like black olives are a bit wrong for this recipe, I would either use less than she says, or use kalamata |
+| Lasagna Boglonese Stew | A | 1 | It's good!  Definitely tastes like lasagna, while being a bit less work. | I feel like black olives are a bit wrong for this recipe, I would either use less than she says, or use kalamata. |
 | Tempeh Larb | A+ | 2 | There's a restaurant in San Diego that has stellar vegan larb that I grew up eating, and this is different but _almost_ as good. The rice powder indeed adds a super unique flavor and texture, and the sauce has just a hint of fishiness without being overpowering. | This works great as an appetizer at events! |
 
 ## Ch 5: Pasta and Noodles
@@ -83,14 +83,14 @@ Now for the actual dishes!  I'll cover all the ones I have made, chapter by chap
 ## Ch 6: Small Things Including Wings
 | Name | Rank | Times Made | Comments | Tips |
 |---|---|---|---|---|
-| Peanut Lime Tempeh Wings |
+| Peanut Lime Tempeh Wings | A+ | Peanut sauce is delicious. Fried, crispy tempeh is also delicious. Combine the two, and you get... even more deliciousness! This is an appetizer that will not disappoint any peanut butter lovers in the crowd. | If using sugary peanut butter (e.g. Skippy or Jif), cut the agave syrup in half and only add more if it needs it. |
 
 ## Ch 7: Centerpieces and Showstoppers
 | Name | Rank | Times Made | Comments | Tips |
 |---|---|---|---|---|
-| Stuffed Faux Turki Roast |
-| Jack's BBQ Seitan Ribs |
-| Meat Lovers' Pinwheel Lasagna |
+| Stuffed Faux Turki Roast | A | 3 | I made this for two thanksgiving events in one year, and it held up! Omnivores seemed happy with it.  It's at least as rich and flavorful as a tofurkey roast, and the delicious stuffing rolled inside takes it to the next level. I just wish I could find a vegan gravy I liked to serve it with... | This recipe uses 50% of the chickpeas and 100% of the liquid from one standard can.  So don't think you can also make aquafaba cookies! |
+| Jack's BBQ Seitan Ribs | A | 1 | It was tasty, but I made this one a while ago.  Need to make it again! | One recipe BBQ sauce is enough for a double batch of ribs.  I wish the book made this clearer... |
+| Meat Lovers' Pinwheel Lasagna | S | 2 | This recipe has been a hit with everyone who's tried it. It's the perfect combination of lentil meat, fake cheese, noodles, and tomato sauce. I can't really improve on it in any way. My GF much prefers ricotta over mozzarella, but that's an easy subsitution to make as both are available in this cookbook! | Despite what it says, you can totally make this as a regular lasagna as well -- just cook the noodles according to package directions and layer in the usual fashion. You might need more tomato sauce though... |
 
 
 
