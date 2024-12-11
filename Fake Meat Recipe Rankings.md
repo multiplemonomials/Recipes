@@ -1,8 +1,8 @@
 # Recipe Rankings for _Fake Meat_ by Isa Chandra Moscowitz
 
-As a longtime fan of Isa's work, I can say that _Fake Meat_ is probably her most ambitious cookbook.  In this 320-page tome, she tries to provide vegan versions of a number of traditional meat-based dishes, from a variety of cuisines.  Many of these recipes are complex, and they often use advanced cooking and baking techniques to try and replicate the texture and flavor of meat and dairy. 
+As a longtime fan of Isa's work, I can say that _Fake Meat_ is probably her most ambitious cookbook.  In this 320-page tome, she tries to provide vegan versions of a number of traditional meat-based dishes, from a variety of cuisines.  Many of these recipes are complex, and they often use advanced cooking and baking techniques to try and replicate the texture and flavor of meat and dairy.
 
-In my opinion, after testing quite a few of these recipes, the results are... often good, but not always.  Some of them work marvelously, while others I've tried have been something of a dud.  In this page, I will provide my notes on which ones I liked the best and which ones I'd recomment skipping.
+Unfortunately, with higher ambitions came... less consistent results.  I have tested quite a lot of these recipes; at least a third of everything in the cookbook.  Some have been stellar!  Others have some parts of the recipe which are stellar, and other parts that are less so.  And still others... I'd recommend skipping.  In the hope that it will be useful to others, I'm publishing my experiences here.
 
 Note: I should mention, I have been vegetarian my whole life, so in some ways I'm not the intended audience of this book -- I can't compare these recipes to real meat.  However, my GF does eat meat, so I will include the thoughts of her and other "beta testers" when applicable.  And just because I don't eat meat doesn't mean I don't know what gives a dish fillingness and meaty flavor!
 
@@ -20,7 +20,6 @@ This book uses certain fake meats in multiple recipes. I'll review the meats the
 | Trumpet Mushroom Bacon | B- | 1 | This does work, and the smoked mushrooms have a super rich flavor and unique crunchiness. However, it's a LOT of work for not much food, at the end of the day. The inefficiency just bothers me.| |
 | Ribbony Seitan Bacon | A+ | 1 | These were delicious, and a lot closer to the fake bacon I grew up eating. They're also a bit more filling than the mushroom ones.  How does it taste to meat eaters? Still don't know, I basically ate all of it myself. The idea of mixing two different seitan doughs is brilliant, and the flavor (I used a smoker and smoked paprika) is on point. | The seitan dough came out _very_ watery for me, and I had to add quite a bit of vital wheat gluten before it was possible to roll it out with a rolling pin. After that, it worked fine. |
 | Pantry Mushroom Bacon | B | 1 | The easiest fake bacon but also the least fancy. As they are pretty set and forget, it's easy to make some of these to throw in salad or a sandwich while working on something else. | This recipe is pretty slow; it took my oven upwards of 45 min instead of the claimed 30 min. |
-| MVP Meat (lentil + TVP meat filling) | A | Many | This isn't too flavorful by itself, but it doesn't have to be. It's intended as a filling for pastas and lasagnas, where its crunchy walnut bits and meaty aftertaste lend some heft to whatever it's folded into. | |
 
 # Fake Dairy
 
