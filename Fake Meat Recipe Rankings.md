@@ -1,4 +1,4 @@
-# Recipe Rankings for _Fake Meat_ by Isa Chandra Moscowitz
+# Recipe Rankings for _Fake Meat_ by Isa Chandra Moskowitz
 
 As a longtime fan of Isa's work, I can say that _Fake Meat_ is probably her most ambitious cookbook.  In this 320-page tome, she tries to provide vegan versions of a number of traditional meat-based dishes, from a variety of cuisines.  Many of these recipes are complex, and they often use advanced cooking and baking techniques to try and replicate the texture and flavor of meat and dairy.
 
@@ -23,16 +23,16 @@ This book uses certain fake meats in multiple recipes. I'll review the meats the
 
 # Fake Dairy
 
-While this cookbook puts fake meat font and center, vegan cheeses and creams are also major components of many dishes. Frankly, these recipes surprised me -- I had never made fake cheese before getting this cookbook, and I was pretty surprised at the quality you could get from simple home recipes.  While some of the fake cheeses turned out a bit disappointing, other recipes have become staples in my kitchen!
+While this cookbook puts fake meat font and center, vegan cheeses and creams are also major components of many dishes. Frankly, these recipes surprised me -- I had never made fake cheese before getting this cookbook, and I was pretty impresssed at the quality you could get from simple home recipes.  While some did turn out a bit disappointing, other recipes have become staples in my kitchen!
 
 | Name | Rank | Times Made | Comments | Tips |
 |---|---|---|---|---|
 | Cream Cheeze Dreamz | A | Many | A tasty dip, great on crackers and bagels!  Maybe slightly less convincing than storebought fake cream cheese, but it makes up for it in the flavor department! | This takes a while to blend/food process as it's quite soft. |
 | Fresh Moz-Shrew-Rella | A | Many | Bland, esp. before going into the brine, but very tasty. | I use a variant of this recipe as pizza cheese! |
-| Nutty Ricotta | B | 1 | The most bland cheese of the bunch, but the texture is pretty convincing.  My GF loves this one! | Add a LOT more salt, like 1 tsp instead of 1/4tsp. |
-| Shreddy Cheddy | A | Many | Combining miso, apple cider vinegar, and nutritional yeast produces a more convincing cheddar flavor than anything I had made before. Quite tasty! Though, once it solidifies, it doesn't really melt the way real cheese does. | You can make a cheese sauce by just doing step 1 of the recipe. |
+| Nutty Ricotta | A | 2 | The most bland cheese of the bunch, but the texture is pretty convincing.  My GF loves this one! | Add a LOT more salt, like 1 tsp instead of 1/4tsp. |
+| Shreddy Cheddy | A | Many | Combining miso, apple cider vinegar, and nutritional yeast produces a more convincing cheddar flavor than anything I had made before. Quite tasty! Though, once it solidifies, it doesn't really re-melt the way real cheese does. | You can make a cheese sauce by just doing step 1 of the recipe. |
 | Faux Feta | C | 2 | As a feta cheese lover,  I was excited for this one, but I could not get it to really work.  It has a nasty habit of burning when being cooked and has a persistent almond flavor.  The texture is pretty decent though. | Add more water to get it to actually blend, though even then you'll probably be spending the better part of 10 minutes blending.  Heat on VERY low heat. |
-| So Very Sour Cream | D | 2 | Just... no. I was excited to find a way to make my own fake sour cream, but this is NOT it. Way too lemony and nowhere near creamy enough. | |
+| So Very Sour Cream | D | 2 | Just... no. I was excited to find a way to make my own fake sour cream, but this is NOT it. Way too lemony and coconutty and nowhere near creamy enough. | |
 
 # Main Dishes
 Now for the actual dishes!  I'll cover all the ones I have made, chapter by chapter.
@@ -64,7 +64,7 @@ Now for the actual dishes!  I'll cover all the ones I have made, chapter by chap
 |---|---|---|---|---|
 | Rogan Josh | S | 2 | Not to be confused with a certain controversial podcaster, this is an extremely flavorful Indian-style curry with meaty seitan pieces and a cool coconut cucumber sauce on top. | One of the more labor intensive recipes in this book, but very worth it! |
 | Tempeh is For Lovers Chili Con Carne | S | 3 | Takes the crown as Isa's best chili recipe, and my personal favorite. Tons of flavor, and fake cheddar and (storebought!) fake sour cream give it a delicious creaminess. | I generally describe it as a "soybean chili" when people ask what it is. |
-| Irish Beef Stew | A | 2 | A solid veggie and sausage stew. The beer adds a complex flavor! The broth starts out very bitter but mellows out after being cooked for a while. | I made this with guiness, which is a type of stout (which I did NOT know until I asked my coworkers). |
+| Irish Beef Stew | A | 2 | A solid veggie and sausage stew. The beer adds a complex flavor! The broth starts out very bitter but mellows out after being cooked for a while. | I made this with guinness, which is a type of stout (which I did NOT know until I asked my coworkers). |
 | Lasagna Boglonese Stew | A | 1 | It's good!  Definitely tastes like lasagna, while being a bit less work. | I feel like black olives are a bit wrong for this recipe, I would either use less than she says, or use kalamata. |
 | Tempeh Larb | A+ | 2 | There's a restaurant in San Diego that has stellar vegan larb that I grew up eating, and this is different but _almost_ as good. The rice powder indeed adds a super unique flavor and texture, and the sauce has just a hint of fishiness without being overpowering. | This works great as an appetizer at events! |
 

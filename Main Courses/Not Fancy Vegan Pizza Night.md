@@ -38,7 +38,7 @@ Two cookie-sheet size, medium crust pizzas.  At least 6 full meals.
 - 3.75 cups (450 g) whole wheat flour, plus extra for dusting
 - 1.5 cups (188 g) all purpose flour
 ### Sub-Recipes
-- Double batch of [Quick-Set Mozzarella Cheeze](../Dependencies/Quick-Set%20Mozzarella.md)
+- Double batch of [Quick-Set Mozzarella Cheeze](../Dependencies/Quick-Set%20Mozzarella.md) or [Quick-Set Ricotta](../Dependencies/Quick-Set%20Ricotta.md)
 ### Toppings
 - 1 lb (2 cups) marinara sauce, divided
 - 1 pack impossible meat / impossible sausage / beyond meat
