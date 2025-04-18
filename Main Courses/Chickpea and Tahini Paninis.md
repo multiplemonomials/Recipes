@@ -20,7 +20,7 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
 - 0.25 tsp salt (can increase if needed)
 
 ### Spiced Chickpeas
-- 2 tbsp lemon juice
+- 2 tbsp lemon juice (~1 small lemon)
 - 1 tsp maple syrup
 - 1 tsp soy sauce or tamari
 - 2 tsp smoked paprika
