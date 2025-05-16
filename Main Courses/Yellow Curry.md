@@ -44,20 +44,19 @@ Cooking: ~45 min
 
 ### Broth
 - Refined coconut oil, for frying
-- 1.5 lbs potatoes, peeled and cut into 2cm chunks (russet preferred)
-- 1 small yellow onion, chopped into large pieces
 - 2.5 tbsp yellow curry paste (see above!)
 - 1 can (400mL) regular coconut milk (not lite coconut milk or coconut cream!)
-- 1.5 cups vegetable broth
+- 1.5 cups fake chicken broth
 - 1 tbsp tamari (Japanese soy sauce, e.g. kikkoman)
-- 2 tsp sugar (or 0.75 tsp stevia)
+- 2 tsp agave nectar
 - 1 tbsp lime juice (~1 smallish lime), plus additional lime wedges for serving (optional)
 
-### Veggies, Protien, and Extras (customize as needed!)
-- 0.75 cup (~1/2 can) bamboo shoots, drained and sliced into long fettucine-style pieces
+### Veggies, Protein, and Extras (customize as needed!)
 - 0.5 cup green beans, ends removed and cut into 1" pieces
 - 2 medium carrots, sliced into ~4mm thick discs
 - 1 red bell pepper
+- 1 small yellow onion, chopped into large pieces
+- 1.5 lbs potatoes, peeled and cut into 2cm chunks (russet preferred)
 - about 1 lb tofu or fake meat, as desired (see "About This Recipe" above)
 - 0.5 cup chopped cilantro for garnish (if desired, I personally don't think it really needs this)
 - white rice (perhaps 1.5 cups dry AKA 2 Zojirushi cups)
@@ -66,7 +65,7 @@ Cooking: ~45 min
 ## Directions:
 ### Yellow Curry Paste
 1. Prepare the lemongrass stalks by peeling off the outer few layers until a tender, smooth surface is exposed.  Then, slice off and discard the green parts at the tops, keeping only the white and very light green parts (bottom 5-6 inches).  Next, slice off the roots at the base.  Finally, chop them into thin slices.
-2. Add the lemongrass and all remaining curry paste ingredients to a small food processor and process until you obtain a smooth paste.  Note that you probably can't use a blender for this as it's not very liquid -- a food processor is a must.  If you are having trouble getting it to process, you can add a bit more melted coconut oil or some water.
+2. Add the lemongrass and all remaining curry paste ingredients to a small food processor and process until you obtain a smooth paste.  Note that you probably can't use a blender for this as it's not very liquid -- a food processor is a must.  If you are having trouble getting it to process, you can add a bit more melted coconut oil or some water. You may also try to crush with a mortar and pestle to extract a little more flavor.
 
 ### Yellow Curry
 1. Do the prep:
@@ -76,12 +75,13 @@ Cooking: ~45 min
     4. Prepare the veggies so that they're ready to add when you need them.
     5. Preheat a large pot over medium heat.
     6. Open up the coconut milk can and stir it so that it's ready to add.
-3. Add the potatoes and onions into the pot along with a bit of coconut oil.  Pan fry for a few minutes until the potatoes are starting to get soft (you should be able to stick a fork through them but they should still be a bit tough).
-4. Add the curry paste plus 2 tbsp coconut milk and fry for a few minutes, until aromatic.
+2. Pan-fry the green beans, carrots, bell pepper, and onion until softened, about 5 minutes. Then, transfer to a prep bowl.
+3. Next, add the potatoes to the pot along with a bit of coconut oil.  Cover and cook, stirring every few minutes. Continue until the potatoes are starting to get soft (you should be able to stick a fork through them but they should still be a bit tough).
+4. Add the curry paste plus 2 tbsp coconut milk to a clear spot in the pot and fry for a few minutes, until aromatic.
 5. Add the remaining coconut milk and the vegetable broth. Stir and bring to a simmer.
-6. Add all the veggies into the pot, and simmer until they are cooked to the desired level of tenderness.  Check after 15 min and see if it's ready or not (I'd recommend trying a potato and a carrot to make sure they are done).  
-7. While the veggies are simmering, prepare your tofu or fake meat (e.g. by steaming or pan frying it).
-8. Once the veggies are done, add the tofu/fake meat, soy sauce, sugar, and lime juice.
+6. Simmer over medium-low heat until potatoes are tender and edible (it should take about 10 minutes).
+7. While the broth is simmering, prepare your tofu or fake meat (e.g. by steaming or pan frying it).
+8. Once the potatoes are done, add the veggies, tofu/fake meat, soy sauce, agave, and lime juice.
 9. Remove from heat, stir, and taste for salt/seasoning.
 10. Serve!  Make sure to add rice, cilantro, lime wedges, and/or chili flakes if using!
 
