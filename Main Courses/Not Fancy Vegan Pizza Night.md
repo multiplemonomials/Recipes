@@ -33,10 +33,14 @@ Two cookie-sheet size, medium crust pizzas.  At least 6 full meals.
 - 2.25 cups warm water (warned to 110 degrees F / 45 degrees C)
 - 1.5 tsp white sugar
 - 1.5 tbsp (2 standard packets) active dry yeast
-- 1.5 tbsp olive oil (plus a few more tbsp for coating and brushing)
-- 1.5 tsp salt
 - 3.75 cups (450 g) whole wheat flour, plus extra for dusting
 - 1.5 cups (188 g) all purpose flour
+- 1 tsp dried basil
+- 1 tsp onion powder
+- .5 tsp dried oregano
+- .5 tsp dried thyme
+- 1.5 tbsp olive oil (plus a few more tbsp for coating and brushing)
+- 1.5 tsp salt
 ### Sub-Recipes
 - Double batch of [Quick-Set Mozzarella Cheeze](../Dependencies/Quick-Set%20Mozzarella.md) or [Quick-Set Ricotta](../Dependencies/Quick-Set%20Ricotta.md)
 ### Toppings
@@ -58,8 +62,11 @@ Two cookie-sheet size, medium crust pizzas.  At least 6 full meals.
 
 ## Directions:
 1. First, we will start the yeast mixture.  Mix the sugar into the warm water with a spoon, and then sprinkle the yeast on top.  Let stand for 10 minutes.  The mixture should be foamy and smell yeasty -- if not, your yeast may have expired!
-2. Now, add the salt and olive oil into the yeast mixture and stir to combine.  Add the yeast mixture and flours into a mixer bowl.  Fit the mixture with the paddle attachment and beat on low for ~1 min, until the flour and liquids are combined.  If you don't have a mixer, instead mix with a spoon.
-3. Then, swap to the dough hook attachment and follow your mixer's instructions to knead the dough (for my KitchenAid, this means setting it on speed 2 for ~8 minutes).  If you don't have a mixer, instead knead the dough on a floured surface for about 10 minutes.  When done, the dough should have formed into a ball and be tacky, but not sticky -- it should feel wet to the touch but should spring back when you press on it.  You may need to add additional flour or water to get the consistency right.
+2. Meanwhile, combine the flours and spices into the mixer bowl.
+2. Now, add the salt and olive oil into the yeast mixture and stir to combine. Then, add the yeast mixture to the mixer bowl. Fit the mixer with the paddle attachment and beat on low for ~1 min, until the flour and liquids are combined.  If you don't have a mixer, instead mix with a spoon.
+3. Then, swap to the dough hook attachment and follow your mixer's instructions to knead the dough (for my KitchenAid, this means setting it on speed 2 for ~8 minutes). The dough should form into a ball around the mixer hook. If it does not, add more flour and scrape down the bowl until it does.
+    - If you don't have a mixer, instead knead the dough on a floured surface for about 10 minutes. 
+4. When done, the dough should have formed into a ball and be tacky, but not sticky -- it should feel wet to the touch but should spring back when you press on it.
 4. Pour olive oil into the mixer bowl and spin the dough so that the bowl and dough are coated in oil.
 5. Let stand for 1 hour, covering with a towel to prevent drying out.  In the meantime, you can work on preparing the cheese and chopping veggies.
 6. Once the dough has finished rising (it should have approximately doubled in size), turn out onto a floured surface and divide in half using a knife.
