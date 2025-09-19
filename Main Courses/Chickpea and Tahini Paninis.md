@@ -29,7 +29,7 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
 - 0.25 tsp cayenne pepper
 - 0.5 tsp salt
 - 2 tbsp olive oil, divided
-- 3 cups cooked chickpeas (2 cans)
+- 3 cups cooked chickpeas (2 cans), drained
 
 
 ### Paninis
@@ -47,10 +47,10 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
 
 
 1. Mix all tahini dressing ingredients together until smooth and creamy. Refrigerate.
-2. Mix lemon juice, maple syrup, and soy sauce together.
-3. In a small microwave-safe bowl, combine papraka, cumin, garlic powder, cayenne pepper, and salt with 1 tbsp of the olive oil.
+2. Mix lemon juice, maple syrup, and soy sauce together in a small bowl.
+3. In a small microwave-safe bowl, combine paprika, cumin, garlic powder, cayenne pepper, and salt with 1 tbsp of the olive oil.
 4. Bloom the spices by placing the bowl in a microwave and heating in 30-second increments until the oil is beginning to bubble and the spices are fragrant.
-5. Heat the remaining olive oil in a large skillet on medium-high heat. Add chickpeas and fry until golden (about 3-5 minutes).
+5. Heat the remaining olive oil in a large skillet on medium-high heat. Add chickpeas and fry until they just start to firm up (about 3-5 minutes).
 6. Pour lemon juice mixture over chickpeas and stir. Wait 30 seconds, then add the bloomed spices.  Stir them in and heat for another minute, then remove the chickpeas from heat.
 7. Heat up your panini maker on high.  If you don't have a panini maker, you can improvise by making the paninis in a skillet and using a large pot to smush down the tops.
 8. Assemble each panini.  Note that this order is important so that things don't fall off!
