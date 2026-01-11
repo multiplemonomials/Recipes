@@ -37,7 +37,7 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
 - 8 large slices of bread (sourdough preferred)
 - Spinach (a cup or two total)
 - Sliced cherry tomatoes (1 cup total)
-- Shredded carrots (1 cup total)
+- Shredded carrots (0.5 cup total)
 - Vegan mayonnaise (a few spoonfuls)
 - Optional extra toppings:
   - Sliced cucumber (1-2 persian cucumbers per recipe)
@@ -50,7 +50,7 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
 2. Mix lemon juice, maple syrup, and soy sauce together in a small bowl.
 3. In a small microwave-safe bowl, combine paprika, cumin, garlic powder, cayenne pepper, and salt with 1 tbsp of the olive oil.
 4. Bloom the spices by placing the bowl in a microwave and heating in 30-second increments until the oil is beginning to bubble and the spices are fragrant.
-5. Heat the remaining olive oil in a large skillet on medium-high heat. Add chickpeas and fry until they just start to firm up (about 3-5 minutes).
+5. Heat the remaining olive oil in a large skillet on medium heat. Add chickpeas and fry until they just start to firm up (about 3-5 minutes).
 6. Pour lemon juice mixture over chickpeas and stir. Wait 30 seconds, then add the bloomed spices.  Stir them in and heat for another minute, then remove the chickpeas from heat.
 7. Heat up your panini maker on high.  If you don't have a panini maker, you can improvise by making the paninis in a skillet and using a large pot to smush down the tops.
 8. Assemble each panini.  Note that this order is important so that things don't fall off!
@@ -59,7 +59,8 @@ This recipe is based off of one my friend Chewie at work gave me for spiced chic
     3. On each slice, spread on 2 tbsp of tahini sauce per slice.  It is thick so you may need to use a knife.
     4. Then add 1/4 of the chickpeas, then 1/4 of the tomatoes and carrots to the two slices
     5. Additional toppings can be added at this level or spread on the top slice of bread
-    6. Top it off with spinach.  Then, spread mayo on the top slice, place it on top of the sandwich, and brush oil on top of it.
+    6. Top it off with spinach.  Then, place it on top of the sandwich, and brush oil on top of it.
 9. Allow the panini to cook for 6-8 minutes.  Once the top and/or bottom bread slice begins to turn golden, remove from heat and serve!
-10. Repeat steps 8-9 for the remaining three paninis!
+10. Repeat steps 8-9 for the remaining three paninis.
+11. Serve, providing a side of mayo for dipping!
 
